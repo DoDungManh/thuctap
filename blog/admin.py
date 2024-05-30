@@ -10,3 +10,5 @@ class PostAdmin(admin.ModelAdmin):
     search_fields = ['title']
 
 admin.site.register(Blog, PostAdmin)
+
+hi haha
